@@ -16,9 +16,13 @@ Once the user clicks on Get started button, they will be presented with a page t
 Built with/Technologies:
 
 HTML,CSS and Javascript( Provided with Project)
-Express 
+
+Express
+
 Node FS
+
 GET, POST and DELETE requests
+
 HEROKU
 
 AUTHOR:
@@ -28,4 +32,5 @@ Pallavi Nama
 SOURCES:
 
 Google.com
+
 W3schools.com
