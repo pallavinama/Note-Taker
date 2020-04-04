@@ -1,10 +1,7 @@
-Project Title:
-
+PROJECT TITLE:
 Note Taker
 
-Project Description and Usage:
-
-
+PROJECT DESCRIPTION AND USAGE:
 Note Taker is an application that uses an Express backend to save, view and delete notes from a JSON file. Below is the application landing page. 
 
 ![image](https://user-images.githubusercontent.com/61402034/78417891-e6105c00-7604-11ea-9864-38cdaa60e65c.png)
@@ -22,11 +19,10 @@ Node FS
 GET, POST and DELETE requests
 HEROKU
 
-Author:
+AUTHOR:
 Pallavi Nama
 
-Sources:
-
-Google
+SOURCES:
+Google.com
 W3schools.com
 
