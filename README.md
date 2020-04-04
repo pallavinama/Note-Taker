@@ -29,5 +29,3 @@ SOURCES:
 
 Google.com
 W3schools.com
-
-Questions:
