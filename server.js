@@ -3,8 +3,8 @@ const path = require('path');
 const fs = require('fs');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
-// const port = 3000;
+// const PORT = process.env.PORT || 3000;
+const port = 3000;
 
 app.use(express.urlencoded({
     extended: true
@@ -76,5 +76,7 @@ app.delete('/api/notes/:id', function(req,res){
     });
 });
 
-app.listen(PORT, function(){
-});
+// app.listen(PORT, function(){
+// });
+
+app.listen(port);
